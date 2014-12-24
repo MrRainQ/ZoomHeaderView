@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>624E321E-2FF4-42E7-AF15-204CCC7E3B3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZoomHeaderView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3426213-DC9C-4E80-B5F1-7F476F6071B9</key>
+		<string>ssh://github.com/MrRainQ/ZoomHeaderView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZoomHeaderView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3426213-DC9C-4E80-B5F1-7F476F6071B9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/MrRainQ/ZoomHeaderView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3426213-DC9C-4E80-B5F1-7F476F6071B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3426213-DC9C-4E80-B5F1-7F476F6071B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZoomHeaderView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
